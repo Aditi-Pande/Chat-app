@@ -1,4 +1,4 @@
-# features:
+# Features:
 - **Multiple people in one chat room**
 - **Real-time notification**
 
